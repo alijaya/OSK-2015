@@ -1,6 +1,6 @@
 # Soal 01
 
-## Soal
+## Deskripsi
 
 Pak Dengklek baru saja membuat sebuah koper. Koper tersebut memiliki sistem pengunci yang unik. Pada koper terdapat 10 tombol. Untuk membuka koper tersebut, pak Dengklek harus menekan 7 tombol yang berbeda dengan urutan tertentu. Berapa banyaknya kemungkinan urutan penekanan tombol yang ada?
 
