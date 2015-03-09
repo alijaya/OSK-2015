@@ -25,7 +25,9 @@ Pak Dengklek baru saja membuat sebuah koper. Koper tersebut memiliki sistem peng
 ### Pembahasan Singkat
 
 Ini hanya soal *Permutasi* sederhana.
-Dapat diselesaikan dengan rumus `P(10, 7) = **604800** cara`.
+Dapat diselesaikan dengan rumus `P(10, 7) = 604800`.
+
+Sehingga terdapat **604800** cara.
 
 ### Pembahasan Lengkap
 
@@ -39,4 +41,6 @@ Pekerjaan memilih urutan tombol-tombol yang akan ditekan dapat didekomposisi men
 6. Memilih satu tombol lain yang akan ditekan **keenam**. Banyak tombol yang dapat dipilih adalah **5**.
 7. Memilih satu tombol lain yang akan ditekan **ketujuh** *(terakhir)*. Banyak tombol yang dapat dipilih adalah **4**.
 
-Sehingga, berdasarkan aturan kali, terdapat `10 * 9 * 8 * 7 * 6 * 5 * 4 = **604800** cara`.
+Sehingga, berdasarkan aturan kali, terdapat `10 * 9 * 8 * 7 * 6 * 5 * 4 = 604800`.
+
+Sehingga terdapat **604800** cara.
