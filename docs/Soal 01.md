@@ -25,7 +25,7 @@ Pak Dengklek baru saja membuat sebuah koper. Koper tersebut memiliki sistem peng
 ### Pembahasan Singkat
 
 Ini hanya soal *Permutasi* sederhana.
-Dapat diselesaikan dengan rumus `P(7, 10) = **604800** cara`.
+Dapat diselesaikan dengan rumus `P(10, 7) = **604800** cara`.
 
 ### Pembahasan Lengkap
 
