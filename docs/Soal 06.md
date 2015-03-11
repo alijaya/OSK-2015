@@ -32,15 +32,14 @@ Jika uang mereka tidak harus seluruhnya dibelanjakan (tetapi tetap harus memenuh
 ## Pembahasan
 
 Konvensi:
-	C(n,k) adalah notasi untuk nilai yang menyatakan banyaknya kombinasi untuk 
-	memilih k dari n objek berbeda
+>C(n,k) adalah notasi untuk nilai yang menyatakan banyaknya kombinasi untuk memilih k dari n objek berbeda
 
 Fakta:
 Terdapat X pilihan 'paket' makanan untuk setiap orang:
-	1) Nasi, paket lauk (total 6 ribu rupiah);
-	2) Nasi, paket lauk, es cendol (total 7 ribu rupiah);
-	3) Burger (total 5 ribu rupiah);
-	4) Burger, es cendol (total 6 ribu rupiah).
+>1) Nasi, paket lauk (total 6 ribu rupiah);
+>2) Nasi, paket lauk, es cendol (total 7 ribu rupiah);
+>3) Burger (total 5 ribu rupiah);
+>4) Burger, es cendol (total 6 ribu rupiah).
 
 Dari fakta-fakta tersebut, dapat ditarik beberapa kesimpulan:
 * Memesan makanan untuk kelima orang tersebut membutuhkan minimal 25 ribu rupiah (yaitu dengan membeli burger untuk masing-masing dari kelima orang tersebut) [1]
