@@ -94,18 +94,18 @@ Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk
 
 * Bentuk-bentuk pembentukan 4248 dari dua faktornya:
 
-	4248 =    1 * 4248
-	4248 =    2 * 2124
-	4248 =    3 * 1416
-	4248 =    4 * 1062
-	4248 =    6 *  708
-	4248 =    8 *  531
-	4248 =    9 *  472
-	4248 =   12 *  354
-	4248 =   18 *  236
-	4248 =   24 *  177
-	4248 =   36 *  118
-	4248 =   59 *  72
+		4248 =    1 * 4248
+		4248 =    2 * 2124
+		4248 =    3 * 1416
+		4248 =    4 * 1062
+		4248 =    6 *  708
+		4248 =    8 *  531
+		4248 =    9 *  472
+		4248 =   12 *  354
+		4248 =   18 *  236
+		4248 =   24 *  177
+		4248 =   36 *  118
+		4248 =   59 *  72
 
 	Terlihat bahwa 4248 tidak mungkin menjadi jawaban untuk soal ini.
 
