@@ -1,15 +1,30 @@
 # Soal 03
 
-* Kategori: Teori Bilangan
-* Kesulitan: Mudah
+## Topik
+
+* Teori Bilangan
+
+## Deskripsi
+
+Diberikan 4 buah angka berbeda, yaitu T, O, K, dan I. Jika diketahui N = TO x KI = IK x OT, berapa nilai N terbesar yang mungkin?
+
+* A. 1472
+* B. 2208
+* C. 3024
+* D. 4284
+* E. Jawaban a,b,c,d salah
+
+---
+
+## Jawaban
+
+**C. 3024**
 
 ## Pembahasan
 
-Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk mendapatkan jawaban
-dari soal ini adalah dengan memfaktorkan masing-masing dari keempat bilangan tersebut dan
-kemudian mencari empat faktor (TO, KI, IK, dan OT) dari sebuah bilangan yang memenuhi persamaan
+Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk mendapatkan jawaban dari soal ini adalah dengan memfaktorkan masing-masing dari keempat bilangan tersebut dan kemudian mencari empat faktor (TO, KI, IK, dan OT) dari sebuah bilangan yang memenuhi persamaan
 
-	N = TO * KI = IK * OT
+	`N = TO * KI = IK * OT`
 
 * Bentuk-bentuk pembentukan 1472 dari dua faktornya:
 

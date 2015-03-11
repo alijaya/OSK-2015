@@ -16,6 +16,12 @@ Sebagai tambahan, Bu Dengklek ingin membagikan permen kepada murid-muridnya sama
 * D. 2520
 * E. 5040
 
+---
+
+## Jawaban
+
+** C. 420**
+
 ## Pembahasan
 
 Perhatikan bahwa terdapat potongan kalimat berikut: "... belum tentu semua muridnya datang ...".
