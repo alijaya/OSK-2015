@@ -29,7 +29,6 @@ Sebut S adalah himpunan seluruh penumpang bus. |S| = 100%.
 Sebut A, B, dan C adalah himpunan-himpunan yang menyatakan himpunan penumpang yang menyetujui Channel A, B, dan C secara berturut-turut.
 
 Dalam soal diketahui bahwa
-
 * |A ∪ B ∪ C| = 77%
 * |A| = 30%
 * |B| = 20%
@@ -47,5 +46,6 @@ Dan yang ditanyakan adalah
     = 20%
 
 {{INSERT_VENN_DIAGRAM_HERE}} {{TERLALU_SULIT_PAKE_KATA-KATA}}
+![Gambar Diagram Venn](/img/20_Venn.png)
 
 Jawaban: **20%**
