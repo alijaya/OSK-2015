@@ -43,6 +43,7 @@ Dan yang ditanyakan adalah
 
     |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
 <!>
+
     |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
     = |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|
     = (30 + 20 + 50 - 77 - 3)%
