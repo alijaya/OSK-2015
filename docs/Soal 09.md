@@ -1,46 +1,20 @@
-# Soal 01
+# Soal 09
 
-## Topik
-
-* Kombinatorika
-
-## Deskripsi
-
-Pak Dengklek baru saja membuat sebuah koper. Koper tersebut memiliki sistem pengunci yang unik. Pada koper terdapat 10 tombol. Untuk membuka koper tersebut, pak Dengklek harus menekan 7 tombol yang berbeda dengan urutan tertentu. Berapa banyaknya kemungkinan urutan penekanan tombol yang ada?
-
-* A. 604800
-* B. 700
-* C. 40640
-* D. 120
-* E. 34360
-
----
-
-## Jawaban
-
-**A. 604800**
+* Kategori: Teori Bilangan
+* Kesulitan: Mudah
 
 ## Pembahasan
 
-### Pembahasan Singkat
+Bilangan tiga digit berbeda yaitu seluruh bilangan bulat di antara 100 dan 999 inklusif.
+Sehingga, kita tinggal mencari banyaknya kelipatan 13 di antara 100 hingga 999.
 
-Ini hanya soal *Permutasi* sederhana.
-Dapat diselesaikan dengan rumus `P(10, 7) = 604800`.
+Banyaknya kelipatan x dalam range [1,a] yaitu sebanyak `a div x`.
 
-Sehingga terdapat **604800** cara.
+Dengan mengetahui formula di atas, kita dapat mencari banyaknya kelipatan 13 dalam range
+[100,999] dengan cara berikut:
 
-### Pembahasan Lengkap
+Banyak kelipatan 13 dalam range [100,999] = Banyak kelipatan 13 dalam range [1,999] - Banyak kelipatan 13 dalam range [1,99]
+                                          = 999 div 13 - 99 div 13
+                                          = 69
 
-Pekerjaan memilih urutan tombol-tombol yang akan ditekan dapat didekomposisi menjadi pekerjaan-pekerjaan berikut:
-
-1. Memilih satu tombol yang akan ditekan **pertama**. Banyak tombol yang dapat dipilih adalah **10**.
-2. Memilih satu tombol lain yang akan ditekan **kedua**. Banyak tombol yang dapat dipilih adalah **9**.
-3. Memilih satu tombol lain yang akan ditekan **ketiga**. Banyak tombol yang dapat dipilih adalah **8**.
-4. Memilih satu tombol lain yang akan ditekan **keempat**. Banyak tombol yang dapat dipilih adalah **7**.
-5. Memilih satu tombol lain yang akan ditekan **kelima**. Banyak tombol yang dapat dipilih adalah **6**.
-6. Memilih satu tombol lain yang akan ditekan **keenam**. Banyak tombol yang dapat dipilih adalah **5**.
-7. Memilih satu tombol lain yang akan ditekan **ketujuh** *(terakhir)*. Banyak tombol yang dapat dipilih adalah **4**.
-
-Sehingga, berdasarkan aturan kali, terdapat `10 * 9 * 8 * 7 * 6 * 5 * 4 = 604800`.
-
-Sehingga terdapat **604800** cara.
+Jawaban: **69** bilangan.

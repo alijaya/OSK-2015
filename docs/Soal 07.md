@@ -1,46 +1,68 @@
-# Soal 01
+# Soal 07
 
-## Topik
-
-* Kombinatorika
-
-## Deskripsi
-
-Pak Dengklek baru saja membuat sebuah koper. Koper tersebut memiliki sistem pengunci yang unik. Pada koper terdapat 10 tombol. Untuk membuka koper tersebut, pak Dengklek harus menekan 7 tombol yang berbeda dengan urutan tertentu. Berapa banyaknya kemungkinan urutan penekanan tombol yang ada?
-
-* A. 604800
-* B. 700
-* C. 40640
-* D. 120
-* E. 34360
-
----
-
-## Jawaban
-
-**A. 604800**
+* Kategori: Aljabar
+* Kesulitan: Mudah
 
 ## Pembahasan
 
-### Pembahasan Singkat
+Fakta:
 
-Ini hanya soal *Permutasi* sederhana.
-Dapat diselesaikan dengan rumus `P(10, 7) = 604800`.
+* Pak Dengklek berangkat dari rumah pukul 06.00
+* Pak Dengklek sampai pulang di rumah pukul 12.00
+* Kecepatan di jalan rata/mendatar (vd) = 4 km/jam
+* Kecepatan di jalan menaik (vn) = 3 km/jam
+* Kecepatan di jalan menurun (vt) = 6 km/jam.
 
-Sehingga terdapat **604800** cara.
+Anggap jarak jalan mendatar adalah x km. Maka jarak jalan menaik/menurun juga x km.
+Anggap waktu tempuh untuk jalan mendatar adalah vd.
+Anggap waktu tempuh untuk jalan menaik adalah tn.
+Anggap waktu tempuh untuk jalan menurun adalah tt.
 
-### Pembahasan Lengkap
+Dari informasi waktu berangkat dan pulang, dapat diketahui juga persamaan berikut.
 
-Pekerjaan memilih urutan tombol-tombol yang akan ditekan dapat didekomposisi menjadi pekerjaan-pekerjaan berikut:
+	2 * td + tn + tt = 6 (jam)					[1]
 
-1. Memilih satu tombol yang akan ditekan **pertama**. Banyak tombol yang dapat dipilih adalah **10**.
-2. Memilih satu tombol lain yang akan ditekan **kedua**. Banyak tombol yang dapat dipilih adalah **9**.
-3. Memilih satu tombol lain yang akan ditekan **ketiga**. Banyak tombol yang dapat dipilih adalah **8**.
-4. Memilih satu tombol lain yang akan ditekan **keempat**. Banyak tombol yang dapat dipilih adalah **7**.
-5. Memilih satu tombol lain yang akan ditekan **kelima**. Banyak tombol yang dapat dipilih adalah **6**.
-6. Memilih satu tombol lain yang akan ditekan **keenam**. Banyak tombol yang dapat dipilih adalah **5**.
-7. Memilih satu tombol lain yang akan ditekan **ketujuh** *(terakhir)*. Banyak tombol yang dapat dipilih adalah **4**.
+Ingat bahwa rumus jarak tempuh adalah:
 
-Sehingga, berdasarkan aturan kali, terdapat `10 * 9 * 8 * 7 * 6 * 5 * 4 = 604800`.
+	s = v * t
 
-Sehingga terdapat **604800** cara.
+dengan `s` adalah jarak tempuh, `v` adalah kecepatan, dan `t` adalah waktu tempuh.
+
+Maka, dapat diketahui bahwa:
+
+	4 * td = x		<->		td = x / 4			[2]
+	3 * tn = x		<->		tn = x / 3			[3]
+	6 * tt = x		<->		tt = x / 6			[4]
+
+Substitusikan td, tn, dan tt dari persamaan [2, 3, 4] ke persamaan [1]:
+
+	2 * (x / 4) + (x / 3) + (x / 6) = 6
+	<->	(x / 2) + (x / 3) + (x / 6) = 6
+	<-> 				(6 * x / 6) = 6
+	<->							  x = 6			[5]
+
+Dari persamaan [5] didapat bahwa jarak satu ruas perjalanan adalah 6 km.
+Maka, Pak Dengklek menempuh total jarak 4 * x = **24 km**.
+
+Sisanya yaitu mencari waktu saat Pak Dengklek tiba di puncak bukit.
+
+Diketahui x adalah jarak tempuh ruas perjalanan, baik saat mendatar maupun menaik/
+menurun. Dari hal ini dapat ditarik kesimpulan bahwa Pak Dengklek menempuh jarak
+x di jalan mendatar dan x di jalan menaik.
+
+* Waktu tempuh di jalan mendatar:
+
+		  x / vd
+		= 6 / 4
+		= 1.5 jam
+
+* Waktu tempuh di jalan menaik:
+
+		  x / vn
+		= 6 / 3
+		= 2 jam
+
+Maka, waktu tempuh dari mulai perjalanan hingga puncak bukit adalah 2 + 1.5 = 3.5 jam
+dari pukul 06.00 pagi, yaitu pukul **09.30**.
+
+Jawaban: **24 km, jam 9.30 pagi**.
