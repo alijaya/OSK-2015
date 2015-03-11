@@ -36,16 +36,16 @@ Konvensi:
 	C(n,k) adalah notasi untuk nilai yang menyatakan banyaknya kombinasi untuk memilih k dari n objek berbeda
 
 Fakta:
-	Terdapat X pilihan 'paket' makanan untuk setiap orang:
-		1) Nasi, paket lauk (total 6 ribu rupiah);
-		2) Nasi, paket lauk, es cendol (total 7 ribu rupiah);
-		3) Burger (total 5 ribu rupiah);
-		4) Burger, es cendol (total 6 ribu rupiah).
+Terdapat X pilihan 'paket' makanan untuk setiap orang:
+	1) Nasi, paket lauk (total 6 ribu rupiah);
+	2) Nasi, paket lauk, es cendol (total 7 ribu rupiah);
+	3) Burger (total 5 ribu rupiah);
+	4) Burger, es cendol (total 6 ribu rupiah).
 
 Dari fakta-fakta tersebut, dapat ditarik beberapa kesimpulan:
-	* Memesan makanan untuk kelima orang tersebut membutuhkan minimal 25 ribu rupiah (yaitu dengan membeli burger untuk masing-masing dari kelima orang tersebut) [1]
+* Memesan makanan untuk kelima orang tersebut membutuhkan minimal 25 ribu rupiah (yaitu dengan membeli burger untuk masing-masing dari kelima orang tersebut) [1]
 
-	* Dari premis [1], dapat ditarik kesimpulan juga bahwa untuk seseorang yang telah membeli burger, terdapat tiga buah 'aksi' yang dapat dilakukan:
+* Dari premis [1], dapat ditarik kesimpulan juga bahwa untuk seseorang yang telah membeli burger, terdapat tiga buah 'aksi' yang dapat dilakukan:
 >1) Tidak melakukan apa-apa (tetap memesan burger) dengan biaya tambahan 0 ribu rupiah;
 >2) Mengganti pilihan makanan utama menjadi nasi + paket lauk dengan biaya tambahan 1 ribu rupiah;
 >3) Mengganti pilihan makanan utama menjadi nasi + paket lauk dan es cendol dengan biaya tambahan 2 ribu rupiah;
