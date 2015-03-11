@@ -83,7 +83,7 @@ Sehingga, banyak kemungkinan pemesanan adalah:
 >> * f. Satu orang melakukan aksi (3), satu orang lainnya melakukan aksi (4): 
 >>> Ada C(5,1) * C(4,1) = 20 cara
 
->5) Dengan tambahan 4 ribu rupiah, maka ada beberapa kombinasi pemesanan makanan:
+>5. Dengan tambahan 4 ribu rupiah, maka ada beberapa kombinasi pemesanan makanan:
 >> * a. Empat orang melakukan aksi (2): 
 >>> Ada C(5,4) = 5 cara
 >> * b. Tiga orang melakukan aksi (2), satu orang lainnya melakukan aksi (4): 
