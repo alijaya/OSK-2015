@@ -34,7 +34,8 @@ Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:
 
 * |A intersect B intersect C| = 3%
 
-Dan yang ditanyakan adalah |(A intersect B) union (B intersect C) union (A intersect C) union (A intersect B intersect C)|.
+Dan yang ditanyakan adalah 
+`|(A intersect B) union (B intersect C) union (A intersect C) union (A intersect B intersect C)|`.
 
 |(A intersect B) union (B intersect C) union (A intersect C) union (A intersect B intersect C)|
 	= |A| + |B| + |C| - |A union B union C| - |A intersect B intersect C|
