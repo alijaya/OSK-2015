@@ -30,10 +30,10 @@ Sebut A, B, dan C adalah himpunan-himpunan yang menyatakan himpunan penumpang ya
 
 Dalam soal diketahui bahwa
 
-* |A ∪ B ∪ C| = 77%
-* |A| = 30%
-* |B| = 20%
-* |C| = 50%
+    * |A ∪ B ∪ C| = 77%
+    * |A| = 30%
+    * |B| = 20%
+    * |C| = 50%
 
 Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:
 
@@ -42,13 +42,13 @@ Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:
 Dan yang ditanyakan adalah 
 
     |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
+<br>
 
     |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
     = |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|
     = (30 + 20 + 50 - 77 - 3)%
     = 20%
 
-{{INSERT_VENN_DIAGRAM_HERE}} {{TERLALU_SULIT_PAKE_KATA-KATA}}
 ![Gambar Diagram Venn](/img/20_Venn.png)
 
 Jawaban: **20%**
