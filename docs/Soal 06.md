@@ -46,10 +46,10 @@ Dari fakta-fakta tersebut, dapat ditarik beberapa kesimpulan:
 	* Memesan makanan untuk kelima orang tersebut membutuhkan minimal 25 ribu rupiah (yaitu dengan membeli burger untuk masing-masing dari kelima orang tersebut) [1]
 
 	* Dari premis [1], dapat ditarik kesimpulan juga bahwa untuk seseorang yang telah membeli burger, terdapat tiga buah 'aksi' yang dapat dilakukan:
-		1) Tidak melakukan apa-apa (tetap memesan burger) dengan biaya tambahan 0 ribu rupiah;
-		2) Mengganti pilihan makanan utama menjadi nasi + paket lauk dengan biaya tambahan 1 ribu rupiah;
-		3) Mengganti pilihan makanan utama menjadi nasi + paket lauk dan es cendol dengan biaya tambahan 2 ribu rupiah;
-		4) Menambah es cendol dengan biaya tambahan 1 ribu rupiah.
+>1) Tidak melakukan apa-apa (tetap memesan burger) dengan biaya tambahan 0 ribu rupiah;
+>2) Mengganti pilihan makanan utama menjadi nasi + paket lauk dengan biaya tambahan 1 ribu rupiah;
+>3) Mengganti pilihan makanan utama menjadi nasi + paket lauk dan es cendol dengan biaya tambahan 2 ribu rupiah;
+>4) Menambah es cendol dengan biaya tambahan 1 ribu rupiah.
 
 Sehingga, banyak kemungkinan pemesanan adalah:
 	1) Dengan tambahan 0 ribu rupiah, maka hanya ada tepat satu kombinasi pemesanan makanan (seluruhnya burger)
