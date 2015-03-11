@@ -1,7 +1,19 @@
 # Soal 07
 
-* Kategori: Aljabar
-* Kesulitan: Mudah
+## Topik
+* Aljabar
+
+## Deskripsi
+Pak Dengklek pergi dari rumah melalui sebuah jalan rata, lalu menaik sampai puncak sebuah bukit, langsung turun kembali ke rumah melalui jalan yang sama. 
+Pak Dengklek berangkat pada pukul 6 pagi dan tiba di rumah pada pukul 12 siang. Jarak jalan mendatar sama dengan jarak jalan menaik.
+Kecepatan Pak Dengklek adalah 4 km/jam di daerah rata dan 3 km/jam ketika menaik serta 6 km/jam ketika turun. 
+Berapa jarak tempuh Pak Dengklek dan pukul berapa Pak Dengklek sampai di puncak bukit?
+
+* A. 24 km, jam 8.30 pagi
+* B. 12 km, jam 8.30 pagi
+* C. 24 km, jam 9.30 pagi
+* D. 24 km, jam 10.30 pagi
+* E. 12 km, jam 9.30 pagi
 
 ## Pembahasan
 
