@@ -52,7 +52,7 @@ Dari premis [1], dapat ditarik kesimpulan juga bahwa untuk seseorang yang telah 
 
 Sehingga, banyak kemungkinan pemesanan adalah:
 >1. Dengan tambahan 0 ribu rupiah, maka hanya ada tepat satu kombinasi pemesanan makanan (seluruhnya burger)
-
+>>
 >2. Dengan tambahan 1 ribu rupiah, maka ada beberapa kombinasi pemesanan makanan:
 >> * a. Satu orang melakukan aksi (2): 
 >>> Ada C(5,1) = 5 cara
@@ -60,18 +60,28 @@ Sehingga, banyak kemungkinan pemesanan adalah:
 >>> Ada C(5,1) = 5 cara
 
 >3. Dengan tambahan 2 ribu rupiah, maka ada beberapa kombinasi pemesanan makanan:
->> * a. Dua orang melakukan aksi (2): Ada C(5,2) = 10 cara
->> * b. Dua orang melakukan aksi (4): Ada C(5,2) = 10 cara
->> * c. Satu orang melakukan aksi (2), satu orang lainnya melakukan aksi (4): Ada C(5,1) * C(4,1) = 20 cara
->> * d. Satu orang melakukan aksi (3): Ada C(5,1) = 5 cara
+>> * a. Dua orang melakukan aksi (2): 
+>>> Ada C(5,2) = 10 cara
+>> * b. Dua orang melakukan aksi (4): 
+>>> Ada C(5,2) = 10 cara
+>> * c. Satu orang melakukan aksi (2), satu orang lainnya melakukan aksi (4): 
+>>> Ada C(5,1) * C(4,1) = 20 cara
+>> * d. Satu orang melakukan aksi (3): 
+>>> Ada C(5,1) = 5 cara
 
 >4. Dengan tambahan 3 ribu rupiah, maka ada beberapa kombinasi pemesanan makanan:
->> * a. Tiga orang melakukan aksi (2): Ada C(5,3) = 10 cara
->> * b. Dua orang melakukan aksi (2), satu orang lainnya melakukan aksi (4): Ada C(5,2) * C(3,1) = 30 cara
->> * c. Dua orang melakukan aksi (4), satu orang lainnya melakukan aksi (2): Ada C(5,2) * C(3,1) = 30 cara
->> * d. Tiga orang melakukan aksi (4): Ada C(5,3) = 10 cara
->> * e. Satu orang melakukan aksi (3), satu orang lainnya melakukan aksi (2): Ada C(5,1) * C(4,1) = 20 cara
->> * f. Satu orang melakukan aksi (3), satu orang lainnya melakukan aksi (4): Ada C(5,1) * C(4,1) = 20 cara
+>> * a. Tiga orang melakukan aksi (2): 
+>>> Ada C(5,3) = 10 cara
+>> * b. Dua orang melakukan aksi (2), satu orang lainnya melakukan aksi (4): 
+>>> Ada C(5,2) * C(3,1) = 30 cara
+>> * c. Dua orang melakukan aksi (4), satu orang lainnya melakukan aksi (2): 
+>>> Ada C(5,2) * C(3,1) = 30 cara
+>> * d. Tiga orang melakukan aksi (4): 
+>>> Ada C(5,3) = 10 cara
+>> * e. Satu orang melakukan aksi (3), satu orang lainnya melakukan aksi (2): 
+>>> Ada C(5,1) * C(4,1) = 20 cara
+>> * f. Satu orang melakukan aksi (3), satu orang lainnya melakukan aksi (4): 
+>>> Ada C(5,1) * C(4,1) = 20 cara
 
 >5) Dengan tambahan 4 ribu rupiah, maka ada beberapa kombinasi pemesanan makanan:
 >> * a. Empat orang melakukan aksi (2): Ada C(5,4) = 5 cara
