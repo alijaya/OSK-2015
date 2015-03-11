@@ -36,15 +36,15 @@ Dalam soal diketahui bahwa
 * |C| = 50%
 
 Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:
-> |A ∩ B ∩ C| = 3%
+    |A ∩ B ∩ C| = 3%
 
 Dan yang ditanyakan adalah 
-> |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
+    |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
 
-> |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
->	= |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|
->	= (30 + 20 + 50 - 77 - 3)%
->	= 20%
+    |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
+    = |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|
+    = (30 + 20 + 50 - 77 - 3)%
+    = 20%
 
 {{INSERT_VENN_DIAGRAM_HERE}} {{TERLALU_SULIT_PAKE_KATA-KATA}}
 
