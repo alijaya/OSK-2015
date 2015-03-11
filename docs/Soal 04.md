@@ -35,7 +35,7 @@ Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:
 * |A intersect B intersect C| = 3%
 
 Dan yang ditanyakan adalah 
-`|(A intersect B) &#8746; (B intersect C) &#8746; (A intersect C) &#8746; (A intersect B intersect C)|`.
+`|(A intersect B) `&#8746;` (B intersect C) `&#8746;` (A intersect C) `&#8746;` (A intersect B intersect C)|`.
 
 |(A intersect B) &#8746; (B intersect C) &#8746; (A intersect C) &#8746; (A intersect B intersect C)|
 	= |A| + |B| + |C| - |A &#8746; B &#8746; C| - |A intersect B intersect C|
