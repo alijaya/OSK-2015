@@ -42,8 +42,7 @@ Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:
 Dan yang ditanyakan adalah 
 
     |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
-<br>
-
+<!>
     |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
     = |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|
     = (30 + 20 + 50 - 77 - 3)%
