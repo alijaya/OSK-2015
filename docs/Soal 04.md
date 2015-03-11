@@ -32,13 +32,13 @@ Dalam soal diketahui bahwa
 
 Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:
 
-* |A intersect B intersect C| = 3%
+* |A ∩ B ∩ C| = 3%
 
 Dan yang ditanyakan adalah 
-`|(A intersect B) ∪ (B intersect C) ∪ (A intersect C) ∪ (A intersect B intersect C)|`.
+`|(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|`.
 
-|(A intersect B) ∪ (B intersect C) ∪ (A intersect C) ∪ (A intersect B intersect C)|
-	= |A| + |B| + |C| - |A ∪ B ∪ C| - |A intersect B intersect C|
+|(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
+	= |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|
 	= (30 + 20 + 50 - 77 - 3)%
 	= 20%
 
