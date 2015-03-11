@@ -7,7 +7,7 @@
 
 ## Deskripsi
 
-Terdapat 5 orang petualang dan mereka semua lapar. Di tengah perjalanan mereka memutuskan untuk makan siang di TOKI Fried Kitchen. Berikut adalah menu yang ditawarkan TOKI Fried Kitchen dengan harga dalam ribuan rupiah.
+Terdapat 5 orang petualang dan mereka semua lapar. Di tengah perjalanan mereka memutuskan untuk makan siang di TOKI Fried Kitchen. Berikut adalah menu yang ditawarkan TOKI Fried Kitchen dengan harga dalam ribuan rupiah:
 *   Nasi          4
 *   Burger        5
 *   Paket Lauk    2
