@@ -2,8 +2,7 @@
 
 ## Topik
 
-* Kategori: Teori Bilangan
-* Kesulitan: Mudah
+* Teori Bilangan
 
 ## Deskripsi
 
