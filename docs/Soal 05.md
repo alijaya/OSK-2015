@@ -30,22 +30,22 @@ Sebut A, B, dan C adalah himpunan-himpunan yang menyatakan himpunan penumpang ya
 
 Dalam soal diketahui bahwa
 
-	|A ∪ B ∪ C| = 77%
-	|A| = 30%
-	|B| = 20%
-	|C| = 50%
+>|A ∪ B ∪ C| = 77%
+>|A| = 30%
+>|B| = 20%
+>|C| = 50%
 
 Dalam soal nomor 5, terdapat informasi tambahan juga yaitu:
 
-	|(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)| = 20%
+>|(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)| = 20%
 
 Dan yang ditanyakan adalah 
-	|(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|.
+|(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|.
 
-	|(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|
-	= |A ∪ B ∪ C| - |(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)|
-	= (77 - 20)%
-	= 57%
+>|(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|
+>= |A ∪ B ∪ C| - |(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)|
+>= (77 - 20)%
+>= 57%
 
 {{INSERT_VENN_DIAGRAM_HERE}} {{TERLALU_SULIT_PAKE_KATA-KATA}}
 
