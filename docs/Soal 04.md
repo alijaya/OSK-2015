@@ -7,7 +7,7 @@
 
 ## Deskripsi
 
-> Murid-murid sekolah X sedang melakukan Study Tour dengan menggunakan bus, dan terdapat TV di bus tersebut. Untuk menentukan channel TV yang akan ditonton pada saat perjalanan, diadakan survey terhadap seluruh penumpang bus tersebut. Channel yang diusulkan yaitu Channel A, B, dan C. Setelah dihitung, 77% penumpang menyetujui sekurang-kurangnya satu dari ketiga channel tersebut ditayangkan, 30% penumpang menyetujui Channel A, 20% penumpang menyetujui Channel B, dan 50% penumpang menyetujui Channel C.
+Murid-murid sekolah X sedang melakukan Study Tour dengan menggunakan bus, dan terdapat TV di bus tersebut. Untuk menentukan channel TV yang akan ditonton pada saat perjalanan, diadakan survey terhadap seluruh penumpang bus tersebut. Channel yang diusulkan yaitu Channel A, B, dan C. Setelah dihitung, 77% penumpang menyetujui sekurang-kurangnya satu dari ketiga channel tersebut ditayangkan, 30% penumpang menyetujui Channel A, 20% penumpang menyetujui Channel B, dan 50% penumpang menyetujui Channel C.
 
 Jika hanya 3% dari penumpang yang memilih penayangan ketiga Channel tersebut, berapa persen
 penumpang yang memilih lebih dari satu Channel? 
@@ -17,6 +17,11 @@ penumpang yang memilih lebih dari satu Channel?
 * C. 37%
 * D. 53%
 * E. 57%
+
+---
+
+## Jawaban
+**B. 20%**
 
 ## Pembahasan
 
@@ -31,16 +36,15 @@ Dalam soal diketahui bahwa
 * |C| = 50%
 
 Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:
-
-* |A ∩ B ∩ C| = 3%
+> |A ∩ B ∩ C| = 3%
 
 Dan yang ditanyakan adalah 
-`|(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|`.
+> |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
 
-|(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
-	= |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|
-	= (30 + 20 + 50 - 77 - 3)%
-	= 20%
+> |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
+>	= |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|
+>	= (30 + 20 + 50 - 77 - 3)%
+>	= 20%
 
 {{INSERT_VENN_DIAGRAM_HERE}} {{TERLALU_SULIT_PAKE_KATA-KATA}}
 
