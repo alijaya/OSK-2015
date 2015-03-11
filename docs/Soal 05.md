@@ -37,13 +37,13 @@ Dalam soal diketahui bahwa
 
 Dalam soal nomor 5, terdapat informasi tambahan juga yaitu:
 
-	|(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)| = 20%
+	|(A ∩ B ∩ C&#39;) ∪ (A&#39; ∩ B ∩ C) ∪ (A ∩ B&#39; ∩ C)| = 20%
 
 Dan yang ditanyakan adalah 
-	|(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|.
+	|(A ∩ B&#39; ∩ C&#39;) ∪ (A&#39; ∩ B ∩ C&#39;) ∪ (A&#39; ∩ B&#39; ∩ C) ∪ (A ∩ B ∩ C)|.
 
-	|(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|
-	= |A ∪ B ∪ C| - |(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)|
+	|(A ∩ B&#39; ∩ C&#39;) ∪ (A&#39; ∩ B ∩ C&#39;) ∪ (A&#39; ∩ B&#39; ∩ C) ∪ (A ∩ B ∩ C)|
+	= |A ∪ B ∪ C| - |(A ∩ B ∩ C&#39;) ∪ (A&#39; ∩ B ∩ C) ∪ (A ∩ B&#39; ∩ C)|
 	= (77 - 20)%
 	= 57%
 
