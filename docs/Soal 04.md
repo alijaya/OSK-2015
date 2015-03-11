@@ -25,7 +25,7 @@ Sebut A, B, dan C adalah himpunan-himpunan yang menyatakan himpunan penumpang ya
 
 Dalam soal diketahui bahwa
 
-* |A union B union C| = 77%
+* |A &#8746; B union C| = 77%
 * |A| = 30%
 * |B| = 20%
 * |C| = 50%
