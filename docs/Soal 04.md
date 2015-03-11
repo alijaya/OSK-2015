@@ -29,15 +29,18 @@ Sebut S adalah himpunan seluruh penumpang bus. |S| = 100%.
 Sebut A, B, dan C adalah himpunan-himpunan yang menyatakan himpunan penumpang yang menyetujui Channel A, B, dan C secara berturut-turut.
 
 Dalam soal diketahui bahwa
+
 * |A ∪ B ∪ C| = 77%
 * |A| = 30%
 * |B| = 20%
 * |C| = 50%
 
 Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:
+
     |A ∩ B ∩ C| = 3%
 
 Dan yang ditanyakan adalah 
+
     |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
 
     |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
