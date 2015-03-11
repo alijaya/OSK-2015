@@ -1,7 +1,20 @@
 # Soal 02
 
+## Topik
+
 * Kategori: Teori Bilangan
 * Kesulitan: Mudah
+
+## Deskripsi
+
+Bu Dengklek adalah seorang guru. Minggu depan, Bu Dengklek ingin membagikan permen kepada 7 orang muridnya, namun belum tentu semua muridnya datang ke sekolah pada minggu depan.
+Sebagai tambahan, Bu Dengklek ingin membagikan permen kepada murid-muridnya sama rata dan tidak bersisa. Berapakah jumlah permen minimal yang harus Bu Dengklek bawa minggu depan?
+
+* A. 1
+* B. 210
+* C. 420
+* D. 2520
+* E. 5040
 
 ## Pembahasan
 
