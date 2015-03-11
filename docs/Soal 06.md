@@ -53,8 +53,10 @@ Dari premis [1], dapat ditarik kesimpulan juga bahwa untuk seseorang yang telah 
 Sehingga, banyak kemungkinan pemesanan adalah:
 >1. Dengan tambahan 0 ribu rupiah, maka hanya ada tepat satu kombinasi pemesanan makanan (seluruhnya burger)
 >2. Dengan tambahan 1 ribu rupiah, maka ada beberapa kombinasi pemesanan makanan:
->> * a. Satu orang melakukan aksi (2): Ada C(5,1) = 5 cara
->> * b. Satu orang melakukan aksi (4): Ada C(5,1) = 5 cara
+>> * a. Satu orang melakukan aksi (2): 
+>>> Ada C(5,1) = 5 cara
+>> * b. Satu orang melakukan aksi (4): 
+>>> Ada C(5,1) = 5 cara
 >3. Dengan tambahan 2 ribu rupiah, maka ada beberapa kombinasi pemesanan makanan:
 >> * a. Dua orang melakukan aksi (2): Ada C(5,2) = 10 cara
 >> * b. Dua orang melakukan aksi (4): Ada C(5,2) = 10 cara
