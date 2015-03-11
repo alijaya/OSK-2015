@@ -7,7 +7,7 @@
 
 ## Deskripsi
 
-`Murid-murid sekolah X sedang melakukan Study Tour dengan menggunakan bus, dan terdapat TV di bus tersebut. Untuk menentukan channel TV yang akan ditonton pada saat perjalanan, diadakan survey terhadap seluruh penumpang bus tersebut. Channel yang diusulkan yaitu Channel A, B, dan C. Setelah dihitung, 77% penumpang menyetujui sekurang-kurangnya satu dari ketiga channel tersebut ditayangkan, 30% penumpang menyetujui Channel A, 20% penumpang menyetujui Channel B, dan 50% penumpang menyetujui Channel C.`
+Murid-murid sekolah X sedang melakukan Study Tour dengan menggunakan bus, dan terdapat TV di bus tersebut. Untuk menentukan channel TV yang akan ditonton pada saat perjalanan, diadakan survey terhadap seluruh penumpang bus tersebut. Channel yang diusulkan yaitu Channel A, B, dan C. Setelah dihitung, 77% penumpang menyetujui sekurang-kurangnya satu dari ketiga channel tersebut ditayangkan, 30% penumpang menyetujui Channel A, 20% penumpang menyetujui Channel B, dan 50% penumpang menyetujui Channel C.
 
 Jika hanya 3% dari penumpang yang memilih penayangan ketiga Channel tersebut, berapa persen
 penumpang yang memilih lebih dari satu Channel? 
