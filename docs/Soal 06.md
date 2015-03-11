@@ -32,8 +32,8 @@ Jika uang mereka tidak harus seluruhnya dibelanjakan (tetapi tetap harus memenuh
 ## Pembahasan
 
 Konvensi:
-
-	C(n,k) adalah notasi untuk nilai yang menyatakan banyaknya kombinasi untuk memilih k dari n objek berbeda
+	C(n,k) adalah notasi untuk nilai yang menyatakan banyaknya kombinasi untuk 
+	memilih k dari n objek berbeda
 
 Fakta:
 Terdapat X pilihan 'paket' makanan untuk setiap orang:
