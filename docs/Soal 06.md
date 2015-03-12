@@ -7,17 +7,19 @@
 
 ## Deskripsi
 
-Terdapat 5 orang petualang dan mereka semua lapar. Di tengah perjalanan mereka memutuskan untuk makan siang di TOKI Fried Kitchen. Berikut adalah menu yang ditawarkan TOKI Fried Kitchen dengan harga dalam ribuan rupiah
-* 1. Nasi          4
-* 2. Burger        5
-* 3. Paket Lauk    2
-* 4. Es Cendol     1
+Terdapat 5 orang petualang dan mereka semua lapar. Di tengah perjalanan mereka memutuskan untuk makan siang di TOKI Fried Kitchen. Berikut adalah menu yang ditawarkan TOKI Fried Kitchen dengan harga dalam ribuan rupiah:
+
+* Nasi          4
+* Burger        5
+* Paket Lauk    2
+* Es Cendol     1
 
 Secara kolektif mereka semua hanya memiliki 30 ribu rupiah untuk makan siang. 
-Berikut adalah cara mereka menentukan makanan yang dipesan
-* 1. setiap orang akan makan nasi atau burger
-* 2. setiap orang yang memesan nasi harus memesan juga paket lauk
-* 3. setiap orang, baik yang memesan nasi maupun burger, dapat memesan paling banyak satu es cendol.
+Berikut adalah cara mereka menentukan makanan yang dipesan:
+
+* setiap orang akan makan nasi atau burger
+* setiap orang yang memesan nasi harus memesan juga paket lauk
+* setiap orang, baik yang memesan nasi maupun burger, dapat memesan paling banyak satu es cendol.
 
 Jika uang mereka tidak harus seluruhnya dibelanjakan (tetapi tetap harus memenuhi kriteria diatas), tentukan ada berapa banyak cara mereka membagi menu makan siang.
 
