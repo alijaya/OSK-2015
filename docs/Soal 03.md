@@ -60,8 +60,8 @@ Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk
         2208 =   46 *   48
 
     Terlihat bahwa 2208 tidak mungkin menjadi jawaban dari soal ini.
-
 > 
+
 * Bentuk-bentuk pembentukan 3024 dari dua faktornya:
 
         3024 =    1 * 3024
