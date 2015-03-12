@@ -1,7 +1,19 @@
 # Soal 08
 
-* Kategori: Ad Hoc
-* Kesulitan: Mudah
+## Topik
+
+* Ad Hoc
+
+## Deskripsi
+
+Suatu lomba maraton diikuti oleh empat kelompok: Melati, Mawar, Dahlia, dan Anggrek. Setiap kelompok mengirimkan lima pelari. Pelari yang masuk finish ke-1, 2, 3, 4, 5, 6 memperoleh nilai berturut-turut 7, 5, 4, 3, 2, 1. Nilai setiap kelompok adalah jumlah nilai kelima pelarinya. Kelompok dengan nilai terbesar adalah juara lomba. Di akhir lomba ternyata kelompok Dahlia menjadi juara dan tidak ada dua pelari yang masuk finish bersamaan. Berapa banyak kemungkinan nilai kelompok
+pemenang? 
+
+* A. 13
+* B. 14
+* C. 15
+* D. 16
+* E. 17
 
 ## Pembahasan
 
@@ -27,6 +39,6 @@ Sehingga, untuk mengetahui banyaknya kemungkinan nilai yang diraih oleh kelompok
 * 20 = 7 + 5 + 4 + 3 + 1
 * 21 = 7 + 5 + 4 + 3 + 2
 
-Sehingga, terdapat 21 - 7 + 1 = **15** kemungkinan nilai total berbeda.
+Sehingga, terdapat `21 - 7 + 1 = **15**` kemungkinan nilai total berbeda.
 
 Jawaban: **15**.

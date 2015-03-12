@@ -16,7 +16,7 @@ Berapa jarak tempuh Pak Dengklek dan pukul berapa Pak Dengklek sampai di puncak 
 * E. 12 km, jam 9.30 pagi
 
 ## Jawaban
-**C.24 km, jam 9.30 pagi**
+**C. 24 km, jam 9.30 pagi**
 
 ## Pembahasan
 
