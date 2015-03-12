@@ -1,7 +1,22 @@
 # Soal 10
 
-* Kategori: Ad Hoc
-* Kesulitan: Mudah
+## Topik
+
+* Ad Hoc
+
+## Deskripsi
+
+Upik berulang tahun ke 20 pada hari Senin, 18 Mei 2015. Maka, pada hari apakah Upik lahir?
+
+* A. Senin
+* B. Selasa
+* C. Rabu
+* D. Kamis
+* E. Jumat
+
+## Jawaban
+
+**D. Kamis**
 
 ## Fakta-Fakta
 

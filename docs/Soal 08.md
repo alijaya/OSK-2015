@@ -15,6 +15,9 @@ pemenang?
 * D. 16
 * E. 17
 
+## Jawaban
+**C. 15**
+
 ## Pembahasan
 
 Perhatikan bahwa minimal kelompok Dahlia mendapat total nilai 7. Jika kelompok Dahlia mendapat total nilai kurang dari 7, maka pasti ada setidaknya ada satu kelompok yang mendapat total nilai sekurangnya 7.
@@ -39,6 +42,6 @@ Sehingga, untuk mengetahui banyaknya kemungkinan nilai yang diraih oleh kelompok
 * 20 = 7 + 5 + 4 + 3 + 1
 * 21 = 7 + 5 + 4 + 3 + 2
 
-Sehingga, terdapat `21 - 7 + 1 = **15**` kemungkinan nilai total berbeda.
+Sehingga, terdapat `21 - 7 + 1 =` **15** kemungkinan nilai total berbeda.
 
 Jawaban: **15**.
