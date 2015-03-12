@@ -42,10 +42,10 @@ Dalam soal nomor 5, terdapat informasi tambahan juga yaitu:
 Dan yang ditanyakan adalah 
 |(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|.
 
->|(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|
+>`|(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|
 >= |A ∪ B ∪ C| - |(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)|
 >= (77 - 20)%
->= 57%
+>= 57%`
 
 {{INSERT_VENN_DIAGRAM_HERE}} {{TERLALU_SULIT_PAKE_KATA-KATA}}
 
