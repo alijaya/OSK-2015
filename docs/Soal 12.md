@@ -26,14 +26,14 @@ Pak Dengklek perlu menaiki 50 anak tangga untuk sampai ke atas, maka `50 (1 + v)
 
 Saat menuruni tangga, Pak Dengklek perlu berjalan 125 anak tangga (Pak Dengklek berjalan selama 125 / 5 = 25 detik), maka `25 (5 - v) = T`
 
-`50 (1 + v) = 25 (5 - v)
-50 + 50v = 125 - 25v
-75v = 75
-v = 1`
+	50 (1 + v) = 25 (5 - v)
+	50 + 50v = 125 - 25v
+	75v = 75
+	v = 1
 
-`50 (1 + v) = T
-50 (1 + 1) = T
-T = 100`
+	50 (1 + v) = T
+	50 (1 + 1) = T
+	T = 100
 
 Setiap anak tangga berjarak 15cm, maka 15cm &times; 100 = 1500cm = 15m.
 
