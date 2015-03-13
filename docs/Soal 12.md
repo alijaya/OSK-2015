@@ -2,7 +2,7 @@
 
 ## Topik
 
-* Pigeon-Hole Principle
+* Ad hoc
 
 ## Deskripsi
 
