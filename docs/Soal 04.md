@@ -41,10 +41,10 @@ Dan yang ditanyakan adalah
 > |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
 
 Sehingga  
-> |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
-> = |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|
-> = (30 + 20 + 50 - 77 - 3)%
-> = 20%
+> |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|  
+> = |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|  
+> = (30 + 20 + 50 - 77 - 3)%  
+> = 20%  
 
 <!--![Gambar Diagram Venn](/img/20_Venn.png)-->
 
