@@ -19,7 +19,7 @@ Sebagai tambahan, Bu Dengklek ingin membagikan permen kepada murid-muridnya sama
 
 ## Jawaban
 
-** C. 420**
+**C. 420**
 
 ## Pembahasan
 

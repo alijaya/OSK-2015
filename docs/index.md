@@ -18,6 +18,7 @@ Karena itu kami akan membuat dokumentasi pembahasan ini se-komprehensif mungkin,
 
 * Pusaka Kaleb Setyabudi
 * Aulia Astrico
+* Alva Thomson
 
 ### Penyunting
 > Mengecek ulang dan merapikan hasil tulisan dari penulis, menentukan standar penulisan, serta mengunggah hasil tulisan ke internet.
