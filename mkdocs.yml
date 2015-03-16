@@ -1,5 +1,6 @@
 site_name: Pembahasan OSK 2015
-extra_css: ["./docs/css/extra.css"]
+extra_css:
+- "css/extra.css"
 pages:
 - [index.md, "Home"]
 - ["Soal 01.md", "Soal 01"]
