@@ -43,4 +43,4 @@ Pekerjaan memilih urutan tombol-tombol yang akan ditekan dapat didekomposisi men
 
 Sehingga, berdasarkan aturan kali, terdapat `10 * 9 * 8 * 7 * 6 * 5 * 4 = 604800`.
 
-Sehingga terdapat **604800** cara.
+Jawaban: **604800** cara.

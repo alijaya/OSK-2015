@@ -12,7 +12,7 @@ Diberikan 4 buah angka berbeda, yaitu T, O, K, dan I. Jika diketahui N = TO x KI
 * B. 2208
 * C. 3024
 * D. 4284
-* E. Jawaban a,b,c,d salah
+* E. Jawaban a, b, c, d salah
 
 ---
 
@@ -23,9 +23,11 @@ Diberikan 4 buah angka berbeda, yaitu T, O, K, dan I. Jika diketahui N = TO x KI
 ## Pembahasan
 
 Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk mendapatkan jawaban dari soal ini adalah dengan memfaktorkan masing-masing dari keempat bilangan tersebut dan kemudian mencari empat faktor (TO, KI, IK, dan OT) dari sebuah bilangan yang memenuhi persamaan
+
 > N = TO * KI = IK * OT
 
 * Bentuk-bentuk pembentukan 1472 dari dua faktornya:
+    
     ```
     1472 =    1 * 1472
     1472 =    2 *  736
@@ -35,7 +37,9 @@ Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk
     1472 =   23 *   64
     1472 =   32 *   46
     ```
+
     Terlihat bahwa 1472 memiliki kemungkinan untuk menjadi jawaban dari soal ini yaitu dengan nilai
+
     ```
     N   = 1472
     TO  =   32
@@ -44,7 +48,8 @@ Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk
     KI  =   64
     ```
 
-* Bentuk-bentuk pembentukan 2208 dari dua faktornya:
+*   Bentuk-bentuk pembentukan 2208 dari dua faktornya:
+    
     ```
     2208 =    1 * 2208
     2208 =    2 * 1104
@@ -59,9 +64,11 @@ Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk
     2208 =   32 *   69
     2208 =   46 *   48
     ```
+
     Terlihat bahwa 2208 tidak mungkin menjadi jawaban dari soal ini.
 
-* Bentuk-bentuk pembentukan 3024 dari dua faktornya:
+*   Bentuk-bentuk pembentukan 3024 dari dua faktornya:
+    
     ```
     3024 =    1 * 3024
     3024 =    2 * 1512
@@ -84,7 +91,9 @@ Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk
     3024 =   48 *   63
     3024 =   54 *   56
     ```
+
     Terlihat bahwa 3024 juga memiliki kemungkinan untuk menjadi jawaban dari soal ini yaitu dengan nilai
+
     ```
     N   = 3042
     TO  =   36
@@ -93,7 +102,8 @@ Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk
     KI  =   48
     ```
 
-* Bentuk-bentuk pembentukan 4248 dari dua faktornya:
+*   Bentuk-bentuk pembentukan 4248 dari dua faktornya:
+    
     ```
     4248 =    1 * 4248
     4248 =    2 * 2124
@@ -108,6 +118,7 @@ Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk
     4248 =   36 *  118
     4248 =   59 *  72
     ```
+    
     Terlihat bahwa 4248 tidak mungkin menjadi jawaban untuk soal ini.
 
 Jawaban: **3024**.
