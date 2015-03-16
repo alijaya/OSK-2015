@@ -26,7 +26,8 @@ Terdapat 4 bilangan berbeda sebagai pilihan dari soal ini. Salah satu cara untuk
 
 > N = TO * KI = IK * OT
 
-* Bentuk-bentuk pembentukan 1472 dari dua faktornya:  
+*   Bentuk-bentuk pembentukan 1472 dari dua faktornya:
+    
     >   1472 =    1 * 1472
     >   1472 =    2 *  736
     >   1472 =    4 *  368
