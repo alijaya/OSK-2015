@@ -4,3 +4,7 @@
     border-left: rgb(225, 228, 229) solid 6px;
     padding-left: 18px;
 }
+
+.rst-versions {
+	display: none;
+}
