@@ -27,24 +27,27 @@ Jika hanya 3% dari penumpang yang memilih penayangan ketiga Channel tersebut, be
 Sebut S adalah himpunan seluruh penumpang bus. |S| = 100%.
 Sebut A, B, dan C adalah himpunan-himpunan yang menyatakan himpunan penumpang yang menyetujui Channel A, B, dan C secara berturut-turut.
 
-Dalam soal diketahui bahwa  
-> * |A ∪ B ∪ C| = 77%  
-> * |A| = 30%  
-> * |B| = 20%  
-> * |C| = 50%  
+Dalam soal diketahui bahwa
 
-Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:  
+    |A ∪ B ∪ C| = 77%  
+    |A| = 30%  
+    |B| = 20%  
+    |C| = 50%  
 
-> |A ∩ B ∩ C| = 3%
+Dalam soal nomor 4, terdapat informasi tambahan juga yaitu:
 
-Dan yang ditanyakan adalah  
-> |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
+    |A ∩ B ∩ C| = 3%
 
-Sehingga  
-> |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|  
-> = |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|  
-> = (30 + 20 + 50 - 77 - 3)%  
-> = 20%  
+Dan yang ditanyakan adalah
+
+    |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|
+
+Sehingga
+
+    |(A ∩ B) ∪ (B ∩ C) ∪ (A ∩ C) ∪ (A ∩ B ∩ C)|  
+    = |A| + |B| + |C| - |A ∪ B ∪ C| - |A ∩ B ∩ C|  
+    = (30 + 20 + 50 - 77 - 3)%  
+    = 20%  
 
 <!--![Gambar Diagram Venn](/img/20_Venn.png)-->
 

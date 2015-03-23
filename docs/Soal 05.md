@@ -28,22 +28,26 @@ Jika yang memilih tepat 2 dari 3 Channel yang diusulkan adalah 20% dari jumlah p
 Sebut S adalah himpunan seluruh penumpang bus. |S| = 100%.
 Sebut A, B, dan C adalah himpunan-himpunan yang menyatakan himpunan penumpang yang menyetujui Channel A, B, dan C secara berturut-turut.
 
-Dalam soal diketahui bahwa  
-> |A ∪ B ∪ C| = 77%  
-> |A| = 30%  
-> |B| = 20%  
-> |C| = 50%  
+Dalam soal diketahui bahwa
 
-Dalam soal nomor 5, terdapat informasi tambahan juga yaitu:  
-> |(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)| = 20%
+    |A ∪ B ∪ C| = 77%  
+    |A| = 30%  
+    |B| = 20%  
+    |C| = 50%  
 
-Dan yang ditanyakan adalah  
-> |(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|
+Dalam soal nomor 5, terdapat informasi tambahan juga yaitu:
 
-Sehingga  
-> |(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|
-> = |A ∪ B ∪ C| - |(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)|
-> = (77 - 20)%
-> = 57%
+    |(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)| = 20%
+
+Dan yang ditanyakan adalah
+
+    |(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|
+
+Sehingga
+
+    |(A ∩ B' ∩ C') ∪ (A' ∩ B ∩ C') ∪ (A' ∩ B' ∩ C) ∪ (A ∩ B ∩ C)|
+    = |A ∪ B ∪ C| - |(A ∩ B ∩ C') ∪ (A' ∩ B ∩ C) ∪ (A ∩ B' ∩ C)|
+    = (77 - 20)%
+    = 57%
 
 Jawaban: **57%**
