@@ -30,9 +30,17 @@ Karena itu kami akan membuat dokumentasi pembahasan ini se-komprehensif mungkin,
 ## Format Penulisan
 * Untuk setiap soal, akan terdapat deskripsi soal yang disertai pembahasan
 * Pembahasan untuk satu soal dapat lebih dari satu
-* Untuk beberapa soal yang mempunyai deskripsi soal yang sama akan dijadikan satu halaman
+* Untuk beberapa soal yang mempunyai deskripsi soal yang sama tetap mempunyai halaman tiap soal, dengan deskripsi yang sama selalu ada di setiap halaman soal dengan *blockquote* seperti ini
+    > Deskripsi soal yang sama
 * Untuk mengacu pada kode pada soal, kami akan menggunakan emphasis `seperti ini`
 * Pada setiap soal, akan dituliskan materi apa saja yang perlu dipahami untuk mengerjakan soal tersebut
+* Angka yang penting dikasih **bold**
+* Kalimat yang penting dikasih *italic*, kalau kalimat tersebut lumayan pendek dan penting, boleh menggunakan **bold**
+* Untuk variable yang digunakan dalam pembahasan gunakan `code`
+* Untuk perhitungan matematis dalam kalimat gunakan `code`
+* Untuk perhitungan matematis lumayan panjang gunakan
+        Code dalam block
+* Untuk fungsi gunakan dalam format `f(x, y)`, termasuk fungsi kombinasi `C(n, r)` dan permutasi `P(n, r)`
 
 ## Tautan
 ### [Soal - Soal Informatika](http://www.toki.or.id/downloads/)
