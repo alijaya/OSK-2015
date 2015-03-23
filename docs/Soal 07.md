@@ -47,16 +47,16 @@ dengan `s` adalah jarak tempuh, `v` adalah kecepatan, dan `t` adalah waktu tempu
 
 Maka, dapat diketahui bahwa:
 
-	4 * td = x		<->		td = x / 4			[2]
-	3 * tn = x		<->		tn = x / 3			[3]
-	6 * tt = x		<->		tt = x / 6			[4]
+	4 * td = x		<=>		td = x / 4			[2]
+	3 * tn = x		<=>		tn = x / 3			[3]
+	6 * tt = x		<=>		tt = x / 6			[4]
 
 Substitusikan `td`, `tn`, dan `tt` dari persamaan `[2, 3, 4]` ke persamaan `[1]`:
 
 	2 * (x / 4) + (x / 3) + (x / 6) = 6
-	<->	(x / 2) + (x / 3) + (x / 6) = 6
-	<-> 				(6 * x / 6) = 6
-	<->							  x = 6			[5]
+	<=>	(x / 2) + (x / 3) + (x / 6) = 6
+	<=> 				(6 * x / 6) = 6
+	<=>							  x = 6			[5]
 
 Dari persamaan `[5]` didapat bahwa jarak satu ruas perjalanan adalah **6** km.
 Maka, Pak Dengklek menempuh total jarak `4 * x = 24` km.

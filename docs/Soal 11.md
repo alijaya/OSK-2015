@@ -27,9 +27,10 @@ Kita dapat mendaftarkan semua bola, yaitu untuk **merah** dari **1** sampai **4*
 Supaya terdapat sepasang bola berwarna sama yang memiliki jumlah **5**, maka angka pada kedua bola tersebut harus **(1, 4)** atau **(2, 3)**.
 
 Jika kita hanya mengambil **2** buah bola untuk setiap bola berwarna sama, pada kasus terburuk kita memiliki keadaan seperti berikut:
-- Merah: (1, 2) (atau (3, 4))
-- Hijau: (1, 2) (atau (3, 4))
-- Biru: (1, 2) (atau (3, 4))
+
+* Merah: (1, 2) (atau (3, 4))
+* Hijau: (1, 2) (atau (3, 4))
+* Biru: (1, 2) (atau (3, 4))
 
 Maka kita perlu mengambil sebuah bola lagi, dan bola apapun yang kita dapatkan, kita akan memperoleh jumlahan **5**.
 
