@@ -15,6 +15,8 @@ pemenang?
 * D. 16
 * E. 17
 
+---
+
 ## Jawaban
 **C. 15**
 

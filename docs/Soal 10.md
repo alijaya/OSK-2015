@@ -14,6 +14,8 @@ Upik berulang tahun ke 20 pada hari Senin, 18 Mei 2015. Maka, pada hari apakah U
 * D. Kamis
 * E. Jumat
 
+---
+
 ## Jawaban
 
 **D. Kamis**

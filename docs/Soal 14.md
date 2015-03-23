@@ -15,16 +15,18 @@ Berapa banyak susunan kata yang dapat dibuat dari huruf-huruf penyusun kata “I
 * D. 848160
 * E. 846180
 
+---
+
 ## Jawaban
 
 **A. 816480**
 
 ## Pembahasan
 
-Pertama kita hitung banyaknya permutasi berbeda yang dapat dibuat dari huruf-huruf penyusun kata "INFORMATIKA" yang mengandung "RM". Kita kelompokkan menjadi "INFOATIKA[RM]", banyaknya permutasinya: 10!/(2! 2!) = 907200.
+Pertama kita hitung banyaknya permutasi berbeda yang dapat dibuat dari huruf-huruf penyusun kata **"INFORMATIKA"** yang mengandung **"RM"**. Kita kelompokkan menjadi **"INFOATIKA[RM]"**, banyaknya permutasinya: `10!/(2! 2!) = 907200`.
 
-Kemudian kita menghitung banyaknya permutasi berbeda yang dapat dibuat dari huruf-huruf penyusun kata "INFORMATIKA" yang mengandung "RM" dan mengandung "OF". Kita kelompokkan menjadi "INATIKA[RM][OF]", banyaknya permutasinya: 9!/(2! 2!) = 90720.
+Kemudian kita menghitung banyaknya permutasi berbeda yang dapat dibuat dari huruf-huruf penyusun kata **"INFORMATIKA"** yang mengandung **"RM"** dan mengandung **"OF"**. Kita kelompokkan menjadi **"INATIKA[RM][OF]"**, banyaknya permutasinya: `9!/(2! 2!) = 90720`.
 
-Maka banyaknya permutasi berbeda yang dapat dibuat dari huruf-huruf penyusun kata "INFORMATIKA" yang mengandung "RM" dan *tidak* mengandung "OF" yaitu 907200 - 90720 = 816480.
+Maka banyaknya permutasi berbeda yang dapat dibuat dari huruf-huruf penyusun kata **"INFORMATIKA"** yang mengandung **"RM"** dan **tidak** mengandung **"OF"** yaitu `907200 - 90720 = 816480`.
 
 Jawaban: **816480**.

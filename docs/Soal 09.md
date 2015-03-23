@@ -14,6 +14,8 @@ Ada berapa banyak bilangan 3-digit yang habis dibagi dengan 13?
 * D. 71
 * E. 72
 
+---
+
 ## Jawaban
 
 **B. 69**

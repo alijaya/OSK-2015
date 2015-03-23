@@ -15,18 +15,20 @@ Peserta Indonesia yang berangkat ke ajang lomba Cerdas Tangkas terdiri dari 5 or
 * D. 840
 * E. 946
 
+---
+
 ## Jawaban
 
 **C. 771**
 
 ## Pembahasan
 
-Untuk menyelesaikan permasalahan "paling sedikit satu orang peserta adalah wanita", kita dapat menggunakan komplemennya, yaitu "tidak ada peserta wanita".
+Untuk menyelesaikan permasalahan *"paling sedikit satu orang peserta adalah wanita"*, kita dapat menggunakan komplemennya, yaitu **"tidak ada peserta wanita"**.
 
-Pertama kita hitung terlebih dahulu berapa banyak cara pemilihan tanpa syarat, yaitu <sub>(7+5)</sub>C<sub>5</sub> = <sub>12</sub>C<sub>5</sub> = 792
+Pertama kita hitung terlebih dahulu berapa banyak cara pemilihan tanpa syarat, yaitu `C(7+5, 5) = C(12, 5) = 792`.
 
-Kemudian kita hitung banyaknya cara pemilihan tanpa wanita: <sub>7</sub>C<sub>5</sub> = 21
+Kemudian kita hitung banyaknya cara pemilihan tanpa wanita: `C(7, 5) = 21`.
 
-Maka kita peroleh 792 - 21 = 771.
+Maka kita peroleh `792 - 21 = 771`.
 
 Jawaban: **771**.

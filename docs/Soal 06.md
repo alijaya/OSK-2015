@@ -29,6 +29,8 @@ Jika uang mereka tidak harus seluruhnya dibelanjakan (tetapi tetap harus memenuh
 * D. 462
 * E. 372
 
+---
+
 ## Jawaban
 **A. 638**
 
@@ -36,7 +38,7 @@ Jika uang mereka tidak harus seluruhnya dibelanjakan (tetapi tetap harus memenuh
 
 **Konvensi**:
 
-> C(n,k) adalah notasi untuk nilai yang menyatakan banyaknya kombinasi untuk memilih k dari n objek berbeda
+> `C(n, k)` adalah notasi untuk nilai yang menyatakan banyaknya kombinasi untuk memilih `k` dari `n` objek berbeda
 
 **Fakta**:
 

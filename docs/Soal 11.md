@@ -14,21 +14,23 @@ Sebuah kotak berisi 4 bola merah, 4 bola hijau, dan 4 bola biru. Pada setiap bol
 * D. 9
 * E. 10
 
+---
+
 ## Jawaban
 
 **B. 7**
 
 ## Pembahasan
 
-Kita dapat mendaftarkan semua bola, yaitu untuk merah dari 1 sampai 4, hijau 1 sampai 4, dan biru 1 sampai 4.
+Kita dapat mendaftarkan semua bola, yaitu untuk **merah** dari **1** sampai **4**, **hijau** **1** sampai **4**, dan **biru** **1** sampai **4**.
 
-Supaya terdapat sepasang bola berwarna sama yang memiliki jumlah 5, maka angka pada kedua bola tersebut harus (1, 4) atau (2, 3).
+Supaya terdapat sepasang bola berwarna sama yang memiliki jumlah **5**, maka angka pada kedua bola tersebut harus **(1, 4)** atau **(2, 3)**.
 
-Jika kita hanya mengambil 2 buah bola untuk setiap bola berwarna sama, pada kasus terburuk kita memiliki keadaan seperti berikut:
+Jika kita hanya mengambil **2** buah bola untuk setiap bola berwarna sama, pada kasus terburuk kita memiliki keadaan seperti berikut:
 - Merah: (1, 2) (atau (3, 4))
 - Hijau: (1, 2) (atau (3, 4))
 - Biru: (1, 2) (atau (3, 4))
 
-Maka kita perlu mengambil sebuah bola lagi, dan bola apapun yang kita dapatkan, kita akan memperoleh jumlahan 5.
+Maka kita perlu mengambil sebuah bola lagi, dan bola apapun yang kita dapatkan, kita akan memperoleh jumlahan **5**.
 
 Jawaban: **7**.
